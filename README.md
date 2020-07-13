@@ -35,5 +35,3 @@ line 105 and line 107 : change name of feature vector (*.txt and *.pkl [please g
 tensorboard --logdir="path to embedding logs"
 ●　This will host your port in 6006
 ●　Copy and paste the port link in your broswer and visualize the data in tensorboard visualization.
-
-
